@@ -1,0 +1,5 @@
+1. Go to "click.js" and copy all script in there
+2. In blooket press CTRL + SHIFT + I 
+3. Go to console section and type "allow pasting"
+4. Paste you "click.js" script there and press enter
+5. Press "OK" in alert window
